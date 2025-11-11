@@ -1,0 +1,10 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: fr\n"
+
+msgid "Hello, welcome to our Flask app!"
+msgstr "Bonjour, bienvenue sur notre application Flask !"
+
+msgid "Greeting Page"
+msgstr "Page de bienvenue"
